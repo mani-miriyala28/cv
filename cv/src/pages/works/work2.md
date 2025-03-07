@@ -1,17 +1,14 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
+title: Intern
+date: 2023 Jan - 2023 Sep
 url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
+location: WHF
+org: Great Learning
 tags:
   [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
+    "Java",
+    "Problem Solving",
+    "Frontend Development",
   ]
 ---
 
