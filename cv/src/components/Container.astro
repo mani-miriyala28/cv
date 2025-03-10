@@ -47,7 +47,6 @@ const PDF = "/cv-20465211.pdf";
             timeframe={item.frontmatter.date}
             location={item.frontmatter.location}
             tags={item.frontmatter.tags}
-            url={item.url}
             url_name={item.frontmatter.institute}
           />
         );
@@ -64,8 +63,12 @@ const PDF = "/cv-20465211.pdf";
             timeframe={item.frontmatter.date}
             description={item.compiledContent()}
             tags={item.frontmatter.tags}
-            url={item.frontmatter.url}
-            url_name={"View project"}
+            url={item.frontmatter.type === "personal" && item.frontmatter.url}
+            url_name={
+              item.frontmatter.type === "personal"
+                ? "View project"
+                : item.frontmatter.url
+            }
           />
         );
       })

@@ -3,7 +3,7 @@ title: Frontend Developer
 date: March,2023 - Present
 location: Hyderabad, Telangana
 org: Wipro
-tags: ["HTML", "CSS", "JavaScript", "React"]
+tags: ["HTML", "CSS", "JavaScript", "React","TailwindCSS","MUI"]
 ---
 
 - Developed and maintained user-facing websites using HTML, CSS, JavaScript and React.Js 
