@@ -7,4 +7,8 @@ pronouns: "he/him"
 website: "http://tafutza.hn/kos"
 ---
 
-Dynamic Front End Developer with experience at Wipro, proficient in JavaScript and React. Expertly crafted user-centric websites and integrated APIs, enhancing functionality and user experience. Proficient in leveraging React.js for dynamic front-end solutions and employing Redux for efficient state management, ensuring seamless and high-performance application experiences. Committed to delivering scalable solutions that meet user needs and business objectives.
+Full-Stack Developer with 2.7 years of experience building web applications using NodeJS and React.js.Proficient in
+developing RESTful APIs and implementing state management with Redux, Redux Toolkit, and Context API.
+Skilled in MS SQL database operations, Jest unit testing, and GitLab CI/CD workflows. Passionate about creating
+end-to-end solutions from backend API design to responsive frontend implementation while following Agile
+methodologies
