@@ -1,7 +1,7 @@
 ---
 title: about
 name: "Mani Babu Miriyala"
-designation: "Frontend Developer"
+designation: "Full Stack Developer"
 location: India, Hyderabad
 pronouns: "he/him"
 website: "http://tafutza.hn/kos"
